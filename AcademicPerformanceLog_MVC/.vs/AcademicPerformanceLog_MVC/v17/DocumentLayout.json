@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|e:\\c#\\asp\\academicperformancelog_mvc\\views\\performances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\performances\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:controllers\\performancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:models\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\academicperformancelog_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3B1711B-72E4-45DB-B8F2-616CB59EB555}|AcademicPerformanceLog_MVC.csproj|solutionrelative:academicperformancelog_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcademicPerformanceLog_MVC",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\AcademicPerformanceLog_MVC.csproj",
+              "RelativeDocumentMoniker": "AcademicPerformanceLog_MVC.csproj",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\AcademicPerformanceLog_MVC.csproj",
+              "RelativeToolTip": "AcademicPerformanceLog_MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T18:46:27.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T18:45:19.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T16:52:21.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Models\\Performance.cs",
+              "RelativeDocumentMoniker": "Models\\Performance.cs",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Models\\Performance.cs",
+              "RelativeToolTip": "Models\\Performance.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:49:37.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerformancesController.cs",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Controllers\\PerformancesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerformancesController.cs",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Controllers\\PerformancesController.cs",
+              "RelativeToolTip": "Controllers\\PerformancesController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:46:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Views\\Performances\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Performances\\Index.cshtml",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Views\\Performances\\Index.cshtml",
+              "RelativeToolTip": "Views\\Performances\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:43:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "E:\\C#\\ASP\\AcademicPerformanceLog_MVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:39:07.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
